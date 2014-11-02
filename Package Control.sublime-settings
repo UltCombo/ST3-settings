@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Emmet",
+		"FixMyJS",
+		"Git",
+		"GitGutter",
+		"Modific",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-php"
+	]
+}

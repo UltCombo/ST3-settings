@@ -1,0 +1,20 @@
+{
+	"atomic_save": false,
+	"color_scheme": "Packages/User/Tomorrow-Night-Bright-tm2-modific (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"FixMyJS",
+		"SideBarEnhancements",
+		"Vintage",
+		"GitGutter",
+		"Git"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true
+}

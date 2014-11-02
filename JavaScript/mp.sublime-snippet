@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+module.exports.${1:prop} = ${0:value};
+]]></content>
+    <tabTrigger>mep</tabTrigger>
+    <scope>source.js</scope>
+    <description>module.exports.prop</description>
+</snippet>

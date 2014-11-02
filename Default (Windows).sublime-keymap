@@ -1,0 +1,28 @@
+[
+	{
+		"keys": [
+		"ctrl+backspace"
+		],
+		"args": {
+			"action": "remove_tag"
+		},
+		"command": "run_emmet_action",
+		"context": [{
+			"key": "emmet_action_enabled.remove_tag"
+		}]
+	},
+    {
+        "keys": [
+            "ctrl+alt+d"
+        ],
+        "args": {
+            "action": "encode_decode_data_url"
+        },
+        "command": "run_emmet_action",
+        "context": [
+            {
+                "key": "emmet_action_enabled.encode_decode_data_url"
+            }
+        ]
+    }
+]
