@@ -4,5 +4,7 @@
 	{ "keys": ["super+pageup"], "command": "prev_view" },
 	{ "keys": ["super+pagedown"], "command": "next_view" },
 	{ "keys": ["super+shift+up"], "command": "swap_line_up" },
-	{ "keys": ["super+shift+down"], "command": "swap_line_down" }
+	{ "keys": ["super+shift+down"], "command": "swap_line_down" },
+	{ "keys": ["super+shift+pageup"], "command": "jump_between_changes", "args": {"direction": "prev"} },
+	{ "keys": ["super+shift+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} }
 ]

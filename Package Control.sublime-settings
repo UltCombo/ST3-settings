@@ -1,13 +1,18 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
 		"Color Highlighter",
+		"DustBuster",
 		"Emmet",
 		"FixMyJS",
 		"Git",
 		"GitGutter",
 		"Modific",
+		"Package Control",
 		"Pretty JSON",
 		"SCSS",
 		"SideBarEnhancements",
