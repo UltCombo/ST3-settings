@@ -5,6 +5,9 @@
 	{ "keys": ["super+pagedown"], "command": "next_view" },
 	{ "keys": ["super+shift+up"], "command": "swap_line_up" },
 	{ "keys": ["super+shift+down"], "command": "swap_line_down" },
-	{ "keys": ["super+shift+pageup"], "command": "jump_between_changes", "args": {"direction": "prev"} },
-	{ "keys": ["super+shift+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} }
+	{ "keys": ["super+shift+pageup"], "command": "jump_between_changes", "args": { "direction": "prev" } },
+	{ "keys": ["super+shift+pagedown"], "command": "jump_between_changes", "args": { "direction": "next" } },
+	{ "keys": ["super+shift+k"], "command": "run_macro_file", "args": { "file": "res://Packages/Default/Delete Line.sublime-macro" } },
+	{ "keys": ["super+backspace"], "args": { "action": "remove_tag" }, "command": "run_emmet_action", "context": [{ "key": "emmet_action_enabled.remove_tag" }] },
+	{ "keys": ["ctrl+super+enter"], "command": "wrap_as_you_type", "context": [{ "operand": false, "operator": "equal", "match_all": true, "key": "setting.is_widget" }, { "match_all": true, "key": "emmet_action_enabled.wrap_as_you_type" }] }
 ]

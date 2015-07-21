@@ -4,7 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"Abacus",
 		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
 		"Color Highlighter",
 		"DustBuster",
 		"Emmet",
@@ -15,7 +18,6 @@
 		"Package Control",
 		"Pretty JSON",
 		"SCSS",
-		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-php"
